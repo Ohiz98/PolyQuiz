@@ -1,1 +1,7 @@
+Polymorphism - this is the ability for an object in a code to take on many forms within it. 
+Polymorphism also refers to redefine methods and classes within them. 
+An good use of polymorphism for example would be the classification of a human being. 
+The super class would be the gender of the person, and the subclasses would include age, name, etc.
 
+Inheritance - this is the act of overloading a class different sub classes within it. 
+It would include a sub class (a class within another class) and collects the fields and methods of its super class.
